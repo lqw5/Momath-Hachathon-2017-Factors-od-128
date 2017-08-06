@@ -1,4 +1,4 @@
-# Momath Hachathon2017: Factors of 128
+# Momath Hachathon 2017: Factors of 128
 
 Project category: Dynamic Wall
 
